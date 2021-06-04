@@ -41,7 +41,7 @@ pip3 install -r requirements.txt
 输入如下命令
 
 ```shell
-nohup ./gp-cqhttp &
+nohup ./go-cqhttp &
 ```
 
 然后control+c，然后再输入
