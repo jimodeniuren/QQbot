@@ -20,11 +20,11 @@
 pip3 install -r requirements.txt
 ```
 
-### 配置涩图API
+### 配置API
 
-* 申请涩图apikey 后填入\src\plugins\setu\data_source.py这个文件的对应位置
+* 申请apikey 后填入\src\plugins\setu\data_source.py这个文件的对应位置
 
-* 涩图apikey 申请方法 https://api.lolicon.app/#/setu
+* apikey 申请方法 https://api.lolicon.app/#/setu
 
 ### 配置超级用户
 
